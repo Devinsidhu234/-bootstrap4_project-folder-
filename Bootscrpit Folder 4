@@ -1,0 +1,6 @@
+# -bootstrap4_project-folder-
+cd path/to/your/bootstrap4_project
+git init
+git add .
+git commit -m "Initial commit for bootstrap4_project"
+git remote add origin https://github.com/DevinSidhu234/yourrepository.git
